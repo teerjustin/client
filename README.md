@@ -1,4 +1,4 @@
-# This is for product_manager_API
+# This is front end for product_manager_API
 
 
 # Getting Started with Create React App
